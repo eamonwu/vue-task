@@ -1,7 +1,8 @@
-# Vue 3 + Vite
+# vue3作业
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 使用
 
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+- clone到本地后 `npm init` 初始化信息
+- 使用 `npm install` 加载依赖
+- 运行 `npm run dev` 
+  
